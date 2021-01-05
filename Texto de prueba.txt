@@ -1,1 +1,1 @@
-Archivo de texto de prueba.
+Comprobación del funcionamiento de git diff.
